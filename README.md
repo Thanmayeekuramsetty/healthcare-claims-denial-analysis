@@ -18,7 +18,7 @@ The project was inspired by questions about the healthcare billing experience. H
 - Evaluate plan-level data completeness and missing or suppressed values.
 - Build an Excel dashboard to communicate key findings and data-quality limitations.
 
-- ## Dataset Information
+## Dataset Information
 
 Source: Centers for Medicare & Medicaid Services (CMS)
 
@@ -49,17 +49,19 @@ Data Notes: The dataset contains insurer-reported information. Missing, suppress
 - Portfolio file organization
 - Version control
 
+
   ## Key Findings
 
-  Overall in-network claims denial rate: 19.04% (claims-weighted, based on valid plan-level records).
-  Total reported claims received: 344,346,696.
-  Total reported claims denied: 65,578,278.
-  Highest state denial rate: Hawaii (HI) — 26.85%.
-  Lowest state denial rate: South Dakota (SD) — 6.82%.
-  Overall plan data completeness: 60.76%.
-  States with below 50% plan data completeness: 9.
+- Overall in-network claims denial rate: 19.04% (claims-weighted, based on valid plan-level records).
+- Total reported claims received: 344,346,696.
+- Total reported claims denied: 65,578,278.
+- Highest state denial rate: Hawaii (HI) — 26.85%.
+- Lowest state denial rate: South Dakota (SD) — 6.82%.
+- Overall plan data completeness: 60.76%.
+- States with below 50% plan data completeness: 9.
 
-These findings are descriptive and should be interpreted alongside reporting completeness and data-quality limitations.
+These findings are descriptive and should be interpreted alongside reporting completeness and data-quality limitations. 
+
 
 ## Methodology
 
